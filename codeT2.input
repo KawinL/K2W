@@ -1,0 +1,4 @@
+define sqr receive x as parameter start
+    assign use root with x to z newline
+    return z add x newline
+end

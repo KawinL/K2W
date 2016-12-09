@@ -1,0 +1,31 @@
+error
+define OBJ MORE_CODE
+CODE
+LAMBDA
+function PRAM start FUNC end
+INLINE MORE_LINE
+FUNC
+LAMBDA
+ASSIGNMENT
+USE_FUNC newline
+return VALUE newline
+assign VALUE to variable newline
+use func_name ARG
+with variable MORE_VAR
+LAMBDA
+receive variable MORE_VAR as parameter
+LAMBDA
+variable MORE_VAR
+LAMBDA
+TERM EQ
+USE_FUNC EQ
+OP VALUE
+LAMBDA
+variable
+number
+add
+subtract
+multiply
+divide
+error
+error
